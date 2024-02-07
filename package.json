@@ -1,0 +1,24 @@
+{
+  "name": "cypresspoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushmitha905/CypressPOC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushmitha905/CypressPOC/issues"
+  },
+  "homepage": "https://github.com/Sushmitha905/CypressPOC#readme",
+  "dependencies": {
+    "cypress": "^13.6.4",
+    "cypress-xpath": "^2.0.1"
+  }
+}
